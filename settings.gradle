@@ -1,0 +1,2 @@
+include ':app', ':imagepicker', ':ppy_view'
+rootProject.name='ppy_tools'
