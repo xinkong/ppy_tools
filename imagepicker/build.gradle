@@ -9,7 +9,7 @@ uploadArchives {
             pom {
                 groupId = 'com.grass.lib'
                 artifactId = "ImagePicker"
-                version = "1.0.4"
+                version = "1.0.5"
                 name = "ImagePicker"
                 packaging = "aar"
             }
